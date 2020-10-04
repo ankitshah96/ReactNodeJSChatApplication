@@ -1,0 +1,239 @@
+2020-05-17 14:07:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-17 14:07:34 - Started 4856
+2020-05-17 15:02:22 - Stopping reactchatsocket.exe
+2020-05-17 15:02:22 - ProcessKill 4856
+2020-05-17 15:02:51 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-05-17 15:03:37 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-17 15:03:38 - Started 4956
+2020-05-18 12:07:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-18 12:07:29 - Started 3284
+2020-05-19 01:01:50 - Stopping reactchatsocket.exe
+2020-05-19 01:01:50 - ProcessKill 3284
+2020-05-19 01:01:52 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-05-19 11:16:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-19 11:16:44 - Started 3228
+2020-05-21 10:04:09 - Stopping reactchatsocket.exe
+2020-05-21 10:04:09 - ProcessKill 3228
+2020-05-21 10:04:17 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-05-21 10:04:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-21 10:04:57 - Started 3796
+2020-05-22 10:42:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-22 10:42:52 - Started 2884
+2020-05-24 11:32:33 - Stopping reactchatsocket.exe
+2020-05-24 11:32:33 - ProcessKill 2884
+2020-05-24 11:32:35 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-05-24 11:33:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-24 11:33:16 - Started 3532
+2020-05-24 16:56:21 - Stopping reactchatsocket.exe
+2020-05-24 16:56:22 - ProcessKill 3532
+2020-05-24 16:56:25 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-05-24 16:56:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-24 16:56:58 - Started 2960
+2020-05-26 11:08:40 - Stopping reactchatsocket.exe
+2020-05-26 11:08:41 - ProcessKill 2960
+2020-05-26 11:09:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-26 11:09:26 - Started 2472
+2020-05-27 12:19:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-27 12:19:11 - Started 2896
+2020-05-28 20:01:02 - Stopping reactchatsocket.exe
+2020-05-28 20:01:02 - ProcessKill 2896
+2020-05-28 20:01:04 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-05-28 20:01:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-28 20:01:40 - Started 2596
+2020-05-29 11:22:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-29 11:22:57 - Started 2976
+2020-05-30 00:54:02 - Stopping reactchatsocket.exe
+2020-05-30 00:54:03 - ProcessKill 2976
+2020-05-30 00:54:04 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-05-30 00:54:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-30 00:54:41 - Started 3000
+2020-06-01 11:38:21 - Stopping reactchatsocket.exe
+2020-06-01 11:38:21 - ProcessKill 3000
+2020-06-01 11:38:29 - Shutdown exception
+Message:The type initializer for 'System.Management.ManagementPath' threw an exception.
+Stacktrace:   at System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+   at System.Management.ManagementObjectSearcher..ctor(ManagementScope scope, ObjectQuery query, EnumerationOptions options)
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-06-01 11:39:05 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-01 11:39:05 - Started 2592
+2020-06-01 19:12:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-01 19:12:09 - Started 2808
+2020-06-03 20:56:50 - Stopping reactchatsocket.exe
+2020-06-03 20:56:51 - ProcessKill 2808
+2020-06-03 20:56:57 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-06-03 20:57:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-03 20:57:33 - Started 3240
+2020-06-04 12:03:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-04 12:03:53 - Started 2852
+2020-06-06 11:27:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-06 11:27:27 - Started 2788
+2020-06-07 09:17:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-07 09:17:59 - Started 2896
+2020-06-09 11:16:23 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-09 11:16:23 - Started 3020
+2020-06-10 12:21:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-10 12:21:10 - Started 2728
+2020-06-10 18:25:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-10 18:25:34 - Started 2104
+2020-06-13 11:33:44 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-13 11:33:44 - Started 4152
+2020-06-17 15:01:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-17 15:01:35 - Started 3200
+2020-06-18 12:36:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-18 12:36:33 - Started 3128
+2020-06-21 11:36:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-21 11:36:53 - Started 3108
+2020-06-25 11:19:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-25 11:19:42 - Started 3060
+2020-06-27 10:45:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-27 10:45:26 - Started 3064
+2020-07-23 09:24:14 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-07-23 09:24:14 - Started 3280
+                                                                                                                                                                                                                                                                                                                                                                                        2020-08-13 11:27:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-13 11:27:43 - Started 2932
+2020-08-13 11:31:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-13 11:31:11 - Started 2544
+2020-08-16 15:43:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-16 15:43:59 - Started 2704
+2020-08-18 13:30:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-18 13:30:46 - Started 3152
+2020-08-21 10:54:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-21 10:54:58 - Started 3212
+2020-08-24 11:57:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-24 11:57:25 - Started 2868
+2020-08-24 19:43:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-24 19:43:29 - Started 2876
+2020-08-30 03:32:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-30 03:32:49 - Started 3028
+2020-08-31 11:03:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-31 11:03:20 - Started 2760
+2020-09-01 11:35:44 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-01 11:35:44 - Started 2948
+2020-09-07 16:15:23 - Stopping reactchatsocket.exe
+2020-09-07 16:15:24 - ProcessKill 2948
+2020-09-07 16:15:29 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-09-07 16:16:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-07 16:16:07 - Started 2720
+2020-09-08 14:44:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-08 14:44:20 - Started 3068
+2020-09-14 11:04:31 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-14 11:04:32 - Started 2928
+2020-09-22 12:07:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-22 12:07:59 - Started 3128
+2020-09-23 14:53:32 - Stopping reactchatsocket.exe
+2020-09-23 14:53:32 - ProcessKill 3128
+2020-09-23 14:53:33 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-09-23 14:54:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-23 14:54:12 - Started 3068
+2020-09-24 12:06:31 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-24 12:06:31 - Started 3132
+2020-09-24 12:08:23 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-24 12:08:23 - Started 1308
+2020-09-24 17:35:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-24 17:35:14 - Started 2832
+2020-09-24 19:34:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-24 19:34:26 - Started 2976
+2020-09-25 15:55:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-25 15:55:03 - Started 3104
+2020-09-28 12:40:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Home\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file E:\codeFiles\React\Sockets\backend\server.js --log "ReactChatSocket wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-28 12:40:43 - Started 2772
